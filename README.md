@@ -31,3 +31,10 @@ git에서의 커밋이란??
 git
 untracked : 추적 안됨
 tracked : 수정없음 수정함 스테이지됨
+
+평행세계 만들기 - branch
+디폴트 브랜치 : master
+git branch cat -- 새 브랜치를 현재 시점에 만들거야! (master가 있는 시점)
+git chechout cat --cat 브랜치로 이동해라 ! (master에 있던 head가 cat으로 옮겨짐)
+
+
